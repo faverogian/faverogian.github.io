@@ -1,0 +1,115 @@
+/*Overall Navbar Container*/
+.navbar{
+    background-color: var(--main-background-color);
+    padding: 12px 0px;
+    min-height: 75px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+}
+
+/*Container Element*/
+.nav-container{
+    align-items: center;
+}
+
+/*Name*/
+#brand{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+/*Each Navbar item (excluding name)ie. collapseable items*/
+.nav-item{
+    position: relative;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 10px 15px;
+}
+
+.nav-item::after {
+    content: "";
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    width: 80%;
+    height: 3px; /* Adjust the height of the line as needed */
+    border-radius: 3px;
+    background-color: var(--main-font-color); /* Change the color of the line */
+    transform: translateX(12.5%) scaleX(0); /* Initial state: line is invisible */
+    transition: transform 0.2s ease, width 0.2s ease; /* Add a transition for the line appearance */
+  }
+  
+  /* Define the hover effect to make the line appear */
+.nav-item:hover::after {
+    transform: translateX(12.5%) scaleX(1); /* The line becomes visible on hover */
+}
+
+/*Container of hamburger menu*/
+.navbar-toggler{
+    display: inline-block;
+}
+
+.navbar-toggler:focus{
+    box-shadow: none;
+    border: none;
+}
+
+/*bars of hamburger menu*/
+.bar {
+    display: block;
+    width: 30px;
+    height: 2px;
+    background-color: var(--main-font-color);
+    margin: 6px auto;
+    transition: transform 0.3s ease, opacity 0.25s ease-in-out;
+    border-radius: 5px;
+}
+
+.bar:nth-child(1){
+    margin: 0px auto 6px auto;
+}
+
+.bar:nth-child(3){
+    margin: 6px auto 0px auto;
+}
+  
+.bar.active:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+}
+  
+.bar.active:nth-child(2) {
+    opacity: 0;
+}
+  
+.bar.active:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+}
+
+/*Container of nav-items*/
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+a{
+    text-decoration: none;
+    color: var(--main-font-color);
+}
+
+.navbar-nav{
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 992px) {
+    .navbar{
+        min-height: 75px;
+        padding: 22px 0px;
+    }
+
+    .nav-item{
+        padding: 25px;
+    }
+}

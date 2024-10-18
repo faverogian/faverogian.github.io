@@ -1,0 +1,59 @@
+.my-header{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.carousel-img {
+    width: 100%; /* or any specific width */
+    height: auto; /* maintain aspect ratio */
+    object-fit: contain; /* ensures the image scales properly within the container */
+    display: block; /* optional, to remove bottom space caused by inline elements */
+}  
+
+#LDM{
+    background: url("/src/assets/ldm/synthetic-brain.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgb(210, 210, 210);
+}
+
+#simpleDiffusion{
+    background: url("/src/assets/simpleDiffusion/simpleDiffusion.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgb(210, 210, 210);
+}
+
+#controlNet{
+    background: url("/src/assets/controlNet/controlNet.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgb(210, 210, 210);
+}
+
+#reddit{
+    background: url("/src/assets/reddit/Reddit-Logo.wine.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #15111A;
+}
+
+#emnist{
+    background: url("/src/assets/emnist/emnist.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#wba{
+    background: url("/src/assets/wba/wba-demo.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#eyefollow{
+    background: url("/src/assets/eyefollow/Logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}

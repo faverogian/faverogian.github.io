@@ -1,0 +1,37 @@
+.my-footer{
+    border-top: 1px var(--main-font-color) solid;
+    box-sizing: border-box;
+    font-size: medium;
+    padding: 10px 0px;
+    text-align: center;
+    font-weight: 300;
+    margin: 0 10%;
+}
+
+.footer-icon-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text{
+    margin-bottom: 8px;
+}
+
+.footer-icons{
+    display: flex;
+    align-items: center;
+    padding: 10px 0px;
+}
+
+/* @media (min-width: 720px){
+    .my-footer{
+        text-align: left;
+    }
+
+    .footer-icon-container{
+        justify-content: flex-start;
+    }
+
+} */

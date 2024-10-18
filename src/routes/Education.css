@@ -1,0 +1,44 @@
+#uow{
+    background: url("/src/assets/uow.jpg");
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: #cecece;
+}
+
+#mcgill{
+    background: url("/src/assets/mcgill.jpg");
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: #cecece;
+}
+
+#mila{
+    background: url("/src/assets/mila.png");
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: #f3f3f3;
+}
+
+table {
+    width: 70%; /* Set the desired width, you can adjust this value */
+    margin: 0 auto; /* Center the table on the page */
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+    color: #d0b1ff;
+  }

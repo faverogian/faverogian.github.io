@@ -1,0 +1,17 @@
+#Stellantis{
+    background: url("/src/assets/qdts/stellantis.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#APAG{
+    background: url("/src/assets/qdts/apag.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#tesla{
+    background: url("/src/assets/qdts/tesla.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
