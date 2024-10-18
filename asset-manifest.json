@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.71bb3bf6.css",
-    "main.js": "/static/js/main.2f3193b6.js",
+    "main.js": "/static/js/main.24112f07.js",
     "static/media/wba-demo.gif": "/static/media/wba-demo.2410628520e3f9eac35e.gif",
     "static/media/uow.jpg": "/static/media/uow.82a50099f2d48b4f6975.jpg",
     "static/media/mcgill.jpg": "/static/media/mcgill.2e03062640ff688735df.jpg",
@@ -22,10 +22,10 @@
     "static/media/putty.svg": "/static/media/putty.37df8b91dfd283b4dec63df847d42a90.svg",
     "index.html": "/index.html",
     "main.71bb3bf6.css.map": "/static/css/main.71bb3bf6.css.map",
-    "main.2f3193b6.js.map": "/static/js/main.2f3193b6.js.map"
+    "main.24112f07.js.map": "/static/js/main.24112f07.js.map"
   },
   "entrypoints": [
     "static/css/main.71bb3bf6.css",
-    "static/js/main.2f3193b6.js"
+    "static/js/main.24112f07.js"
   ]
 }
