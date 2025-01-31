@@ -1,200 +1,197 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Gian Favero",
+    "label": "MSc Mila | McGill",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gian.favero@mail.mcgill.ca",
+    "url": "https://faverogian.github.io/portfolio.io/",
+    "summary": "Graduate student at Mila and McGill University supervised by Tal Arbel and Chris Pal.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "6666 rue Saint-Urbain",
+      "postalCode": "H2S 3H1",
+      "city": "Montreal",
+      "countryCode": "CA",
+      "region": "Quebec"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Gian Favero",
+        "url": "https://www.linkedin.com/in/gianfavero/"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "McGill University | Mila",
+      "location": "Montreal, QC, Canada",
+      "url": "https://www.mcgill.ca",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2023-09-05",
+      "endDate": "",
+      "score": "4.0",
+      "courses": "Representation Learning (Prof. Aaron Courville)"
+    },
+    {
+      "institution": "University of Windsor",
+      "location": "Windsor, ON, Canada",
+      "url": "https://www.uwindsor.ca",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Bachelor of Applied Science",
+      "startDate": "2019-09-05",
+      "endDate": "2023-08-23",
+      "score": "99/100"
+    }
+  ],
+  "work": [
+    {
+      "name": "Mila - Quebec AI Institute",
+      "position": "Graduate Research Student",
+      "url": "https://mila.quebec/en",
+      "startDate": "2023-09-01",
+      "endDate": "",
+      "summary": "Design and optimize distributed training pipelines in PyTorch for controllable image and video diffusion. Leverage HPC cluster and multi-modal brain MRI datasets to model neurodegenerative disease progression.",
+      "highlights": ["diffusion, image/video generation, vision-language models"]
+    },
+    {
+      "name": "Stellantis",
+      "position": "System Validation Intern",
+      "url": "https://www.stellantis.com/en",
+      "startDate": "2022-09-05",
+      "endDate": "2022-12-23",
+      "summary": "Designed and led the build of new validation platform to be used in all North American facilities, achieving improvements of 50% in footprint reduction. ",
+      "highlights": ["Python, Busmaster, CANoe"]
+    },
+    {
+      "name": "Tesla Inc.",
+      "position": "System Integration Intern",
+      "url": "https://www.tesla.com",
+      "startDate": "2022-01-06",
+      "endDate": "2022-04-28",
+      "summary": "Designed and built an automated system that enables rapid full-scale charging tests to be carried out on vehicles. Performed firmware and hardware integration for high-voltage systems on upcoming vehicle platforms.",
+      "highlights": ["C++, Python, Busmaster, Wireshark, Git, CANape"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "FRQNT Master's Scholarship",
+      "date": "2024-04-12",
+      "awarder": "Fonds de recherche du Quebec - Nature and technologies",
+      "url": "https://frq.gouv.qc.ca/en/nature-and-technologies/",
+      "summary": "Valued at $20,000/year. One of ten students awarded in Quebec."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Governor General's Silver Medal",
+      "date": "2024-05-07",
+      "awarder": "Governor General of Canada",
+      "url": "https://www.gg.ca/en/honours/governor-generals-awards/governor-generals-academic-medal",
+      "summary": "The Governor General's Silver Medal is presented to the student who achieves the highest academic standing in a 4-year Bachelor degree in an honors program."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Governor General's Bronze Medal",
+      "date": "2019-06-21",
+      "awarder": "Governor General of Canada",
+      "url": "https://www.gg.ca/en/honours/governor-generals-awards/governor-generals-academic-medal",
+      "summary": "The Governor General's Bronze Medal is presented to the student who achieves the highest academic standing in their secondary school class."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free",
+      "publisher": "(In Review) Medical Imaging with Deep Learning (MIDL), 2025",
+      "releaseDate": "2025-01-31",
+      "url": "https://openreview.net/forum?id=3LySEy7MR3&noteId=3LySEy7MR3",
+      "summary": "We explore class-conditional diffusion models for 2D medical image classification, introduce a majority voting scheme and demonstrate their competitive, explainable, and uncertainty-aware performance on CheXpert and ISIC datasets."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality",
+      "publisher": "International Conference on Learning Representations (ICLR), 2025",
+      "releaseDate": "2025-01-22",
+      "url": "https://openreview.net/forum?id=cC3LxGZasH",
+      "summary": "We propose JEDi, the JEPA Embedding Distance, based on features derived from a Joint Embedding Predictive Architecture, measured using Maximum Mean Discrepancy with polynomial kernel. Our experiments on multiple open-source datasets show clear evidence that it is a superior alternative to the widely used FVD metric, requiring only 16% of the samples to reach its steady value, while increasing alignment with human evaluation by 34%, on average."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Electrochemical Analysis of High-Capacity Li-Ion Pouch Cell for Automotive Applications",
+      "publisher": "SAE International",
+      "releaseDate": "2021-04-05",
+      "url": "https://saemobilus.sae.org/papers/electrochemical-analysis-high-capacity-li-ion-pouch-cell-automotive-applications-2021-01-0760",
+      "summary": "We develop and validates a temperature-dependent pseudo-2D electrochemical model for a high-capacity NMC pouch cell, analyzing its performance across temperatures (10°C-50°C) and C-rates to inform battery thermal management in electric vehicles."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Reading the Field: Predicting Post-Snap Outcomes with Large Language Models",
+      "summary": "Submission for the 2025 NFL Big Data Bowl.",
+      "startDate": "2025-01-03",
+      "endDate": "2025-01-05",
+      "url": "https://github.com/faverogian/control-net-video"
+    },
+    {
+      "name": "ControlNet Video",
+      "summary": "Video generation pipeline using ControlNet and a synthetic video dataset written in PyTorch.",
+      "startDate": "2025-01-03",
+      "endDate": "2025-01-31",
+      "url": "https://github.com/faverogian/control-net-video"
+    },
+    {
+      "name": "ControlNet",
+      "summary": "An unofficial PyTorch implementation of ControlNet as published by Zhang et al. in 'Adding Conditional Control to Text-to-Image Diffusion Models'.",
+      "startDate": "2024-06-01",
+      "endDate": "2024-07-01",
+      "url": "https://github.com/faverogian/controlNet"
+    },
+    {
+      "name": "Simple Diffusion",
+      "summary": "An unofficial implementation of the simple diffusion paradigm as published by Hoogeboom et al. in 'Simple diffusion: End-to-end diffusion for high resolution images'.",
+      "startDate": "2024-05-01",
+      "endDate": "2024-06-01",
+      "url": "https://github.com/faverogian/simpleDiffusion"
+    },
+    {
+      "name": "Wearable Biomimetic Appendage",
+      "summary": "Captone: A device that can mimic a user's hand and finger movements to aid in basic tasks.",
+      "startDate": "2023-01-01",
+      "endDate": "2023-08-05",
+      "url": "https://www.youtube.com/watch?v=UIM3DzoZ4W8"
+    }
+  ],
+  "skills": [
+    {
+      "name": "ML/AI",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PyTorch",
+        "Accelerate",
+        "NumPy",
+        "Polars",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "Git",
+        "HTML"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Verilog",
+        "EAGLE",
+        "Fusion360",
+        "Raspberry Pi/Arduino",
+        "Embedded-C"
+      ]
     }
   ]
 }
