@@ -1,26 +1,4 @@
 {
-  "basics": {
-    "name": "Gian Favero",
-    "label": "MSc Mila | McGill",
-    "image": "",
-    "email": "gian.favero@mail.mcgill.ca",
-    "url": "https://faverogian.github.io/portfolio.io/",
-    "summary": "Graduate student at Mila and McGill University supervised by Tal Arbel and Chris Pal.",
-    "location": {
-      "address": "6666 rue Saint-Urbain",
-      "postalCode": "H2S 3H1",
-      "city": "Montreal",
-      "countryCode": "CA",
-      "region": "Quebec"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "Gian Favero",
-        "url": "https://www.linkedin.com/in/gianfavero/"
-      }
-    ]
-  },
   "education": [
     {
       "institution": "McGill University | Mila",
@@ -45,6 +23,15 @@
     }
   ],
   "work": [
+    {
+      "name": "Disney Research | Studios",
+      "position": "Research Intern (Incoming)",
+      "url": "https://studios.disneyresearch.com",
+      "startDate": "2025-03-17",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    },
     {
       "name": "Mila - Quebec AI Institute",
       "position": "Graduate Research Student",
@@ -73,29 +60,6 @@
       "highlights": ["C++, Python, Busmaster, Wireshark, Git, CANape"]
     }
   ],
-  "awards": [
-    {
-      "title": "FRQNT Master's Scholarship",
-      "date": "2024-04-12",
-      "awarder": "Fonds de recherche du Quebec - Nature and technologies",
-      "url": "https://frq.gouv.qc.ca/en/nature-and-technologies/",
-      "summary": "Valued at $20,000/year. One of ten students awarded in Quebec."
-    },
-    {
-      "title": "Governor General's Silver Medal",
-      "date": "2024-05-07",
-      "awarder": "Governor General of Canada",
-      "url": "https://www.gg.ca/en/honours/governor-generals-awards/governor-generals-academic-medal",
-      "summary": "The Governor General's Silver Medal is presented to the student who achieves the highest academic standing in a 4-year Bachelor degree in an honors program."
-    },
-    {
-      "title": "Governor General's Bronze Medal",
-      "date": "2019-06-21",
-      "awarder": "Governor General of Canada",
-      "url": "https://www.gg.ca/en/honours/governor-generals-awards/governor-generals-academic-medal",
-      "summary": "The Governor General's Bronze Medal is presented to the student who achieves the highest academic standing in their secondary school class."
-    }
-  ],
   "publications": [
     {
       "name": "Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free",
@@ -109,14 +73,14 @@
       "publisher": "International Conference on Learning Representations (ICLR), 2025",
       "releaseDate": "2025-01-22",
       "url": "https://openreview.net/forum?id=cC3LxGZasH",
-      "summary": "We propose JEDi, the JEPA Embedding Distance, based on features derived from a Joint Embedding Predictive Architecture, measured using Maximum Mean Discrepancy with polynomial kernel. Our experiments on multiple open-source datasets show clear evidence that it is a superior alternative to the widely used FVD metric, requiring only 16% of the samples to reach its steady value, while increasing alignment with human evaluation by 34%, on average."
+      "summary": "We propose JEDi, the JEPA Embedding Distance. Our experiments on multiple open-source datasets show clear evidence that it is a superior alternative to the widely used FVD metric for generated video quality, requiring only 16% of the samples to reach its steady value, while increasing alignment with human evaluation by 34%, on average."
     },
     {
       "name": "Electrochemical Analysis of High-Capacity Li-Ion Pouch Cell for Automotive Applications",
       "publisher": "SAE International",
       "releaseDate": "2021-04-05",
       "url": "https://saemobilus.sae.org/papers/electrochemical-analysis-high-capacity-li-ion-pouch-cell-automotive-applications-2021-01-0760",
-      "summary": "We develop and validates a temperature-dependent pseudo-2D electrochemical model for a high-capacity NMC pouch cell, analyzing its performance across temperatures (10°C-50°C) and C-rates to inform battery thermal management in electric vehicles."
+      "summary": "We develop and validate a temperature-dependent pseudo-2D electrochemical model for a high-capacity NMC pouch cell, analyzing its performance across temperatures (10°C-50°C) and C-rates to inform battery thermal management in electric vehicles."
     }
   ],
   "projects": [
@@ -156,42 +120,27 @@
       "url": "https://www.youtube.com/watch?v=UIM3DzoZ4W8"
     }
   ],
-  "skills": [
+  "awards": [
     {
-      "name": "ML/AI",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyTorch",
-        "Accelerate",
-        "NumPy",
-        "Polars",
-        "Linux"
-      ]
+      "title": "FRQNT Master's Scholarship",
+      "date": "2024-04-12",
+      "awarder": "Fonds de recherche du Quebec - Nature and technologies",
+      "url": "https://frq.gouv.qc.ca/en/nature-and-technologies/",
+      "summary": "Valued at $20,000/year. One of ten students awarded in Quebec."
     },
     {
-      "name": "Software",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "C",
-        "C++",
-        "Python",
-        "Git",
-        "HTML"
-      ]
+      "title": "Governor General's Silver Medal",
+      "date": "2024-05-07",
+      "awarder": "Governor General of Canada",
+      "url": "https://www.gg.ca/en/honours/governor-generals-awards/governor-generals-academic-medal",
+      "summary": "The Governor General's Silver Medal is presented to the student who achieves the highest academic standing in a 4-year Bachelor degree in an honors program."
     },
     {
-      "name": "Hardware",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Verilog",
-        "EAGLE",
-        "Fusion360",
-        "Raspberry Pi/Arduino",
-        "Embedded-C"
-      ]
+      "title": "Governor General's Bronze Medal",
+      "date": "2019-06-21",
+      "awarder": "Governor General of Canada",
+      "url": "https://www.gg.ca/en/honours/governor-generals-awards/governor-generals-academic-medal",
+      "summary": "The Governor General's Bronze Medal is presented to the student who achieves the highest academic standing in their secondary school class."
     }
   ]
 }
