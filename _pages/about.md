@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>200</p>
     <p>6666 rue Saint-Urbain</p>
     <p>Montreal, QC,  H2S 3H1</p>
 
@@ -22,11 +21,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 Currently a graduate student at McGill University and Mila obtaining an MSc. in Electrical and Computer Engineering. Research focus lies at the juxtapsition of computer vision, machine learning, and medical image analysis under the supervision of Dr. Tal Arbel. Currently applying novel generative modelling techniques (variational diffusion models) for image and video synthesis.
 
-A graduate of the University of Windsor's Electrical Engineering program (BASc.) who held its highest GPA from 2019-2023. Industry experience spans across embedded software development and hardware design (APAG CoSyst), software integration and automated testing (Tesla Inc.), and system validation (Stellantis). Research involvement in pouch cell modelling (I-FuELs) and eye-tracking (HS Lab).
+A graduate of the University of Windsor's Electrical Engineering program (BASc.) who held its highest GPA from 2019-2023. Industry experience spans across embedded software development and hardware design (APAG CoSyst), software integration and automated testing (Tesla Inc.), and system validation (Stellantis). Research involvement in pouch cell modelling (I-FuELs).

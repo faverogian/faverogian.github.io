@@ -58,6 +58,15 @@
       "endDate": "2022-04-28",
       "summary": "Designed and built an automated system that enables rapid full-scale charging tests to be carried out on vehicles. Performed firmware and hardware integration for high-voltage systems on upcoming vehicle platforms.",
       "highlights": ["C++, Python, Busmaster, Wireshark, Git, CANape"]
+    },
+    {
+      "name": "APAGCoSyst",
+      "position": "Embedded Software Intern",
+      "url": "https://www.apagcosyst.com",
+      "startDate": "2021-05-06",
+      "endDate": "2021-08-28",
+      "summary": "Created prototype PCBs and integrated proof-of-concept vehicle systems for uses in capacitive touch interfaces, ambient lighting solutions, and climate control HMIs",
+      "highlights": ["Embedded C, Python, EAGLE, CANoe"]
     }
   ],
   "publications": [
