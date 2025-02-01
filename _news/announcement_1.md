@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality" has been accepted to ICLR 2025!
+"Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality" has been accepted to ICLR 2025
