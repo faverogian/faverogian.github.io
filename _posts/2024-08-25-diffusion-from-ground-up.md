@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Diffusion Models; From the Ground Up
+title: diffusion models; from the ground up
 description: A modern interpretation on diffusion models and how we got here
 tags: diffusion models
 giscus_comments: true
