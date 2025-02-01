@@ -20,7 +20,7 @@ typograms: false
 
 authors:
   - name: Gian Favero
-    url: "https://faverogian.github.io/portfolio.io/"
+    url: "https://faverogian.github.io/"
     affiliations:
       name: Mila, McGill
 
