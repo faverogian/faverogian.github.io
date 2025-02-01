@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://faverogian.github.io/portfolio.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://faverogian.github.io/sitemap.xml
