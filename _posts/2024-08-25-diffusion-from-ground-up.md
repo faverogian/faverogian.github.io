@@ -6,6 +6,17 @@ tags: diffusion models
 giscus_comments: true
 date: 2024-08-25
 featured: true
+mermaid:
+  enabled: false
+  zoomable: false
+code_diff: false
+map: false
+chart:
+  chartjs: false
+  echarts: false
+  vega_lite: false
+tikzjax: false
+typograms: false
 
 authors:
   - name: Gian Favero
@@ -13,7 +24,7 @@ authors:
     affiliations:
       name: Mila, McGill
 
-bibliography: diffusion-from-the-ground-up.bib
+bibliography: 2024-08-25-diffusion-from-ground-up.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
@@ -39,23 +50,24 @@ toc:
     - Sampling and Connections with SDEs
     - Backbone and Architecture Choices
 
-# Below is an example of injecting additional post-specific styles.
-# If you use this post as a template, delete this _styles block.
-# _styles: >
-#   .fake-img {
-#     background: #bbb;
-#     border: 1px solid rgba(0, 0, 0, 0.1);
-#     box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
-#     margin-bottom: 12px;
-#   }
-#   .fake-img p {
-#     font-family: monospace;
-#     color: white;
-#     text-align: left;
-#     margin: 12px 0;
-#     text-align: center;
-#     font-size: 16px;
-#   }
+Below is an example of injecting additional post-specific styles.
+If you use this post as a template, delete this _styles block.
+_styles: >
+  .fake-img {
+    background: #bbb;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 12px;
+  }
+  .fake-img p {
+    font-family: monospace;
+    color: white;
+    text-align: left;
+    margin: 12px 0;
+    text-align: center;
+    font-size: 16px;
+  }
+
 ---
 
 ## Generative Models
