@@ -66,7 +66,7 @@ ninja.data = [{
     },{id: "news-beyond-fvd-enhanced-evaluation-metrics-for-video-generation-quality-has-been-accepted-to-iclr-2025",
           title: '“Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality” has been accepted to...',
           description: "",
-          section: "News",},{id: "news-conditional-diffusion-models-are-medical-image-classifiers-that-provide-explainability-and-uncertainty-for-free-has-been-submitted-for-review-to-midl-2025",
+          section: "News",},{id: "news-conditional-diffusion-models-are-medical-image-classifiers-that-provide-explainability-and-uncertainty-for-free-has-been-submitted-for-review",
           title: '“Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for...',
           description: "",
           section: "News",},{id: "projects-project-1",
