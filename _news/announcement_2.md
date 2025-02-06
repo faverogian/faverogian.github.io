@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free" has been submitted for review to MIDL 2025
+"Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free" has been submitted for review

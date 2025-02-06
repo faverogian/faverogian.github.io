@@ -72,7 +72,7 @@
   "publications": [
     {
       "name": "Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free",
-      "publisher": "(In Review) Medical Imaging with Deep Learning (MIDL), 2025",
+      "publisher": "(In Review)",
       "releaseDate": "2025-01-31",
       "url": "https://openreview.net/forum?id=3LySEy7MR3&noteId=3LySEy7MR3",
       "summary": "We explore class-conditional diffusion models for 2D medical image classification, introduce a majority voting scheme and demonstrate their competitive, explainable, and uncertainty-aware performance on CheXpert and ISIC datasets."
