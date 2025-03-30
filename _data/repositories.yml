@@ -5,8 +5,8 @@ repo_description_lines_max: 2
 
 github_repos:
   - faverogian/simpleDiffusion
+  - faverogian/med-diffusion-classifier
   - faverogian/controlNet
   - faverogian/control-net-video
   - faverogian/BigData25
   - faverogian/nfl-fantasim
-  - faverogian/nDEs
