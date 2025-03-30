@@ -25,19 +25,19 @@
   "work": [
     {
       "name": "Disney Research | Studios",
-      "position": "Research Intern (Incoming)",
+      "position": "Research Intern",
       "url": "https://studios.disneyresearch.com",
       "startDate": "2025-03-17",
       "endDate": "",
-      "summary": "",
-      "highlights": ""
+      "summary": "Representation learning of images/video that disentangle visual artistic style from semantic content. Neural style transfer using deep learning and diffusion-based generative models.",
+      "highlights": ["neural style transfer, diffusion, representation learning"]
     },
     {
       "name": "Mila - Quebec AI Institute",
       "position": "Graduate Research Student",
       "url": "https://mila.quebec/en",
       "startDate": "2023-09-01",
-      "endDate": "",
+      "endDate": "2025-03-17",
       "summary": "Design and optimize distributed training pipelines in PyTorch for controllable image and video diffusion. Leverage HPC cluster and multi-modal brain MRI datasets to model neurodegenerative disease progression.",
       "highlights": ["diffusion, image/video generation, vision-language models"]
     },
@@ -71,10 +71,17 @@
   ],
   "publications": [
     {
-      "name": "Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free",
+      "name": "Spatio-Temporal Conditional Diffusion Model for Forecasting Future Multiple Sclerosis Lesion Masks Conditioned on Treatments",
       "publisher": "(In Review)",
+      "releaseDate": "2025-02-28",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free",
+      "publisher": "International Conference on Medical Imaging with Deep Learning (MIDL), 2025",
       "releaseDate": "2025-02-06",
-      "url": "https://arxiv.org/abs/2502.03687",
+      "url": "https://openreview.net/forum?id=3LySEy7MR3#discussion",
       "summary": "We explore class-conditional diffusion models for 2D medical image classification, introduce a majority voting scheme and demonstrate their competitive, explainable, and uncertainty-aware performance on CheXpert and ISIC datasets."
     },
     {
