@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A graduate student at McGill University and Mila - Quebec AI Institute obtaining an MSc. in Electrical and Computer Engineering. Research lies in application of variational diffusion models for image and video synthesis in the medical domain under the supervision of Tal Arbel and Chris Pal. Research internship with Disney Research | Studios in neural style transfer using deep learning and generative models.
+A graduate student at McGill University and Mila - Quebec AI Institute obtaining an MSc. in Electrical and Computer Engineering. Research lies in application of variational diffusion models for image and video synthesis in the medical domain under the supervision of Tal Arbel and Chris Pal. Research internship with Disney Research Studios in neural style transfer using deep learning and generative models.
 
 A graduate of the University of Windsor's Electrical Engineering program (BASc.) who held its highest GPA from 2019-2023. Industry experience spans across embedded software development and hardware design (APAG CoSyst), software integration and automated testing (Tesla Inc.), and system validation (Stellantis). Research involvement in pouch cell modelling (I-FuELs).
