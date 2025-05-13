@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Internship began with the Imaging/Video team at Disney Research | Studios!
+Internship begun with the Imaging/Video team at Disney Research | Studios!
