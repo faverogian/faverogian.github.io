@@ -72,10 +72,10 @@
   "publications": [
     {
       "name": "Spatio-Temporal Conditional Diffusion Model for Forecasting Future Multiple Sclerosis Lesion Masks Conditioned on Treatments",
-      "publisher": "(In Review)",
+      "publisher": "LMID Workshop, held in conjunction with the 28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025",
       "releaseDate": "2025-02-28",
       "url": "",
-      "summary": ""
+      "summary": "We present the first treatment-aware spatio-temporal diffusion model that predicts future Multiple Sclerosis lesion evolution from multi-modal patient data, demonstrating accurate forecasting and clinically relevant applications across diverse treatments."
     },
     {
       "name": "Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free",
